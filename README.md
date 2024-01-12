@@ -26,11 +26,35 @@ Our exploration of 3 and 12 months rates of change for moving averages showed a 
 
 Analyzing job postings from 2020 to 2023 uncovered a significant peak in September and October 2021, with over 400,000 positions available. However, a dramatic decrease ensued, with less than half of the maximum postings within a year. September 2023 witnessed an aggressive decline, suggesting a prolonged conservative hiring approach.
 
+<h3 align="Left">
+    <img alt="Logo" title="#logo" width="850px" src="plots/headcount_roc.png">
+    <br>
+</h3>
+
+<div style="text-align: center;">
+
+<h3 align="Left">
+    <img alt="Logo" title="#logo" width="850px" src="plots/postings.png">
+    <br>
+</h3>
+
+<div style="text-align: center;">
+
 **Employee Sentiment Analysis**
 
 *How have employees responded to massive layoffs within the tech industry?*
 
 Two wordmaps, one reflecting negative sentiments and the other positive sentiments, were created to gauge employee opinions post-massive layoffs in 2023. Negative sentiments included words like work, management, long, balance, while positive sentiments highlighted expressions such as good work, best, great work, experience, work-life balance.
+
+<h3 align="Left">
+    <img alt="Logo" title="#logo" width="850px" src="plots/wordcloud_red.png">
+    <br>
+</h3>
+
+<h3 align="left">
+    <img alt="Logo" title="#logo" width="850px" src="plots/wordcloud_green.png">
+    <br>
+</h3>
 
 **Business Outlook Distribution (2023 vs. 2018)**
 
