@@ -80,4 +80,11 @@ def create_word_cloud(data, column, sentiment='negative'):
     plt.figure(figsize=(10, 5))
     plt.imshow(wordcloud, interpolation='bilinear')
     plt.axis('off')
+
+    # Save plot 
+    if sentiment == 'negative':
+        plt.savefig('plots/wordcloud_red.png')
+    elif sentiment == 'positive':
+        plt.savefig('plots/wordcloud_green.png')
+
     plt.show()
