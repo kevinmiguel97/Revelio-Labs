@@ -8,9 +8,9 @@
 # Tech Industry Trends: Navigating Challenges and Shifting Dynamics
 
 **Key Findings:**
-- Analysis focused on major tech companies like Apple, Amazon, Netflix, and others.
-- Utilized 3 and 12 months rates of change for moving averages to eliminate seasonality.
+- Headcount rates don't give much hope to a return to normality in the near future for big tech companies.
 - Job postings peaked in 2021, followed by a sharp decline, signaling a conservative hiring approach.
+- Perception from big tech employess has significantly shifted compared to 2018 levels. 
 
 In the ever-evolving landscape of the tech industry, our recent analysis reveals intriguing insights into the workforce dynamics and sentiments within major players such as Apple, Amazon, and Netflix.
 
