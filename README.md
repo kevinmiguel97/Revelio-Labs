@@ -34,8 +34,10 @@ Analyzing job postings from 2020 to 2023 uncovered a significant peak in Septemb
 
 We conducted sentiment analysis using wordmaps to gauge post-massive layoffs opinions in 2023. Negative sentiments included words like management, long, balance, while positive sentiments highlighted expressions such as good work, best, great experience, work-life balance.
 
-![Negative Sentiments](plots/wordcloud_red.png)
-![Positive Sentiments](plots/wordcloud_green.png)
+<div style="display:flex; justify-content: space-between;">
+    <img alt="Negative Sentiments 2018" title="Negative Sentiments 2018" width="500px" src="plots/wordcloud_red.png">
+    <img alt="Positive Sentiments 2023" title="Positive Sentiments 2023" width="500px" src="plots/wordcloud_green.png">
+</div>
 
 **Business Outlook Distribution (2023 vs. 2018)**
 
@@ -48,7 +50,10 @@ As the tech industry navigates challenges and shifting dynamics, our analysis un
 Thank you for your continued interest in Revelio Labs' insights.
 
 
-
+<div style="display:flex; justify-content: space-between;">
+    <img alt="Negative Sentiments 2018" title="Negative Sentiments 2018" width="400px" src="plots/opinions_2018.png">
+    <img alt="Positive Sentiments 2023" title="Positive Sentiments 2023" width="400px" src="plots/opinions_2023.png">
+</div>
 
 
 
