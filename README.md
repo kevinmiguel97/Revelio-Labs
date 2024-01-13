@@ -3,14 +3,12 @@
     <br>
 </h3>
 
-<div style="text-align: center;">
-
 # Tech Industry Trends: Navigating Challenges and Shifting Dynamics
 
 **Key Findings:**
 - Headcount rates don't give much hope to a return to normality in the near future for big tech companies.
 - Job postings peaked in 2021, followed by a sharp decline, signaling a conservative hiring approach.
-- Perception from big tech employess has significantly shifted compared to 2018 levels. 
+- Perception from big tech employees has significantly shifted compared to 2018 levels.
 
 In the ever-evolving landscape of the tech industry, our recent analysis reveals intriguing insights into the workforce dynamics and sentiments within major players such as Apple, Amazon, and Netflix.
 
@@ -20,41 +18,24 @@ In the ever-evolving landscape of the tech industry, our recent analysis reveals
 
 Our exploration of 3 and 12 months rates of change for moving averages showed a sustained positive trend from April 2017 to July 2022, around 10% and 15%. However, a rapid decline in July 2022 raised intriguing questions, with the 3-month ROC breaking the negative threshold in July 2023.
 
+![Headcount ROC](plots/headcount_roc.png)
+
 **Job Postings: A Sharp Decline**
 
 *What impact have recent events had on the hiring landscape of major tech players?*
 
 Analyzing job postings from 2020 to 2023 uncovered a significant peak in September and October 2021, with over 400,000 positions available. However, a dramatic decrease ensued, with less than half of the maximum postings within a year. September 2023 witnessed an aggressive decline, suggesting a prolonged conservative hiring approach.
 
-<h3 align="Left">
-    <img alt="Logo" title="#logo" width="850px" src="plots/headcount_roc.png">
-    <br>
-</h3>
-
-<div style="text-align: center;">
-
-<h3 align="Left">
-    <img alt="Logo" title="#logo" width="850px" src="plots/postings.png">
-    <br>
-</h3>
-
-<div style="text-align: center;">
+![Job Postings](plots/postings.png)
 
 **Employee Sentiment Analysis**
 
 *How have employees responded to massive layoffs within the tech industry?*
 
-Two wordmaps, one reflecting negative sentiments and the other positive sentiments, were created to gauge employee opinions post-massive layoffs in 2023. Negative sentiments included words like work, management, long, balance, while positive sentiments highlighted expressions such as good work, best, great work, experience, work-life balance.
+We conducted sentiment analysis using wordmaps to gauge post-massive layoffs opinions in 2023. Negative sentiments included words like management, long, balance, while positive sentiments highlighted expressions such as good work, best, great experience, work-life balance.
 
-<h3 align="Left">
-    <img alt="Logo" title="#logo" width="850px" src="plots/wordcloud_red.png">
-    <br>
-</h3>
-
-<h3 align="left">
-    <img alt="Logo" title="#logo" width="850px" src="plots/wordcloud_green.png">
-    <br>
-</h3>
+![Negative Sentiments](plots/wordcloud_red.png)
+![Positive Sentiments](plots/wordcloud_green.png)
 
 **Business Outlook Distribution (2023 vs. 2018)**
 
@@ -65,3 +46,9 @@ Our analysis also extended to the distribution of business outlook opinions. In 
 As the tech industry navigates challenges and shifting dynamics, our analysis underscores the need for companies to adapt to evolving trends, ensuring a harmonious balance between growth and employee well-being.
 
 Thank you for your continued interest in Revelio Labs' insights.
+
+
+
+
+
+
