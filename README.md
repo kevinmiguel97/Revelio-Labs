@@ -51,8 +51,8 @@ Thank you for your continued interest in Revelio Labs' insights.
 
 
 <div style="display:flex; justify-content: space-between;">
-    <img alt="Negative Sentiments 2018" title="Negative Sentiments 2018" width="400px" src="plots/opinions_2018a.png">
-    <img alt="Positive Sentiments 2023" title="Positive Sentiments 2023" width="400px" src="plots/opinions_2023a.png">
+    <img alt="Negative Sentiments 2018" title="Negative Sentiments 2018" width="400px" src="plots/opinions_2018.png">
+    <img alt="Positive Sentiments 2023" title="Positive Sentiments 2023" width="400px" src="plots/opinions_2023.png">
 </div>
 
 
