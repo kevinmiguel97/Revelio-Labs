@@ -3,7 +3,7 @@
     <br>
 </h3>
 
-# Tech Industry Trends: Navigating Challenges and Shifting Dynamics
+# The unprecedented shift: Big Tech's turbulent journey from peak hiring to historic layoffs
 
 **Key Findings:**
 - Headcount rates don't give much hope for a return to normality in the near future for big tech companies.
